@@ -4,7 +4,7 @@
 <h3> <a href="https://github.com/yonismuse/configure-ad">Active Directory Infrastructure Project Part 1</a></h3>
 
 <h1>Network-File-Shares-and-Permissions</h1>
-In this tutorial, we will be setting up shared network files & permissions based on the previous Active Directory project. <br />
+In this final section of the project, we will be setting up shared network files & permissions based on the previous Active Directory project. <br />
 
 <h2>Environments and Technologies Used</h2>
 
